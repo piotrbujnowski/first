@@ -1,8 +1,5 @@
 import random
 
-
-
-
 play = True
 while play:
     
